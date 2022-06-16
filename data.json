@@ -1,0 +1,76 @@
+{
+  "product": [
+    {
+      "name": "op",
+      "category_id": 1,
+      "avatar": "https://bigdata-vn.com/wp-content/uploads/2021/10/Hinh-anh-anime-One-Piece-anh-One-Piece-4K-dep.jpg",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "jk32",
+      "avatar": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/4/13/photo-1-16498315408161932781445.jpg",
+      "category_id": 1
+    },
+    {
+      "id": 4,
+      "name": "sheva",
+      "avatar": "https://gamek.mediacdn.vn/133514250583805952/2021/10/19/ou1-1634637946821505114288.jpg",
+      "category_id": 1
+    },
+    {
+      "id": 5,
+      "name": "zoro",
+      "avatar": "https://bigdata-vn.com/wp-content/uploads/2021/10/Hinh-anh-anime-One-Piece-anh-One-Piece-4K-dep.jpg",
+      "category_id": 1
+    },
+    {
+      "id": 6,
+      "name": "nika",
+      "avatar": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/4/13/photo-1-16498315408161932781445.jpg",
+      "category_id": 1
+    },
+    {
+      "id": 7,
+      "name": "mrnkt",
+      "avatar": "https://img.thuthuatphanmem.vn/uploads/2018/10/20/hd-nature-wallpaper_104836698.jpg",
+      "category_id": 2
+    },
+    {
+      "id": 8,
+      "name": "jk32",
+      "avatar": "http://2.bp.blogspot.com/-b13-kLbeiwA/UkOuU5XcYPI/AAAAAAAAOgA/uowYIR4vdmI/d/nature-wallpaper-hd+(5).jpg",
+      "category_id": 2
+    },
+    {
+      "id": 9,
+      "name": "ahihi",
+      "avatar": "http://chiase24.com/wp-content/uploads/2022/02/tang-hap-hanh-na_n-nature-wallpaper-aap-nhayt-27.jpg",
+      "category_id": 2
+    },
+    {
+      "id": 10,
+      "name": "hihi",
+      "avatar": "https://img.thuthuatphanmem.vn/uploads/2018/10/20/4k-nature-wallpaper_104834870.jpg",
+      "category_id": 2
+    },
+    {
+      "name": "mrnkt",
+      "category_id": "2",
+      "avatar": "https://bigdata-vn.com/wp-content/uploads/2021/10/Hinh-anh-anime-One-Piece-anh-One-Piece-4K-dep.jpg",
+      "id": 12
+    },
+    {
+      "name": "nguyen khac truong",
+      "category_id": "1",
+      "avatar": "https://phongkhammayo.vn/hinh-nen-luffy-ngau/imager_64347.jpg",
+      "id": 13
+    },
+    {
+      "name": "new clothes123",
+      "category_id": "2",
+      "avatar": "https://ephoto360.com/uploads/effect-data/ephoto360.com/effd47e57/Luffy5e8fe78944e90.jpg",
+      "id": 14
+    }
+  ]
+}
